@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "OddNumber\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7.0"
+    }
+}
